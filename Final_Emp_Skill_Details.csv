@@ -1,0 +1,1628 @@
+Mapping_ID_Emp_Id,Skillset,Skill_Id
+1,Skills not available,1
+2,c,2
+2,c++,3
+2,java,4
+2,matlab,5
+2,microsoft office,6
+2,core java,7
+2,linux,8
+2,microsoft excel,9
+2,team management,10
+2,gnu debugger,11
+3,compensation & benefits,12
+3,human resources (hr),13
+3,payroll administration,14
+3,hr transformation,15
+3,talent management,16
+3,hr strategy,17
+4,telecommunications,18
+4,pre-sales,19
+4,voip,20
+4,solution architecture,21
+4,sip,22
+4,unified communications,23
+4,ip,24
+4,wireless,25
+4,ss7,26
+4,network design,27
+4,managed services,28
+4,product management,29
+4,voice over ip (voip),30
+4,professional services,31
+4,gsm,32
+4,ngn,33
+4,isdn,34
+4,sip trunking,35
+5,management,36
+5,staffing services,37
+5,onboarding,38
+5,background checks,39
+6,software project management,40
+6,requirements analysis,41
+6,testing,42
+6,software development,43
+6,integration,44
+6,internet protocol (ip),45
+6,wireless technologies,46
+6,unix,47
+6,embedded systems,48
+6,internet of things,49
+6,m2m,50
+6,datacom,51
+6,machine to machine,52
+7,talent acquisition,53
+7,employee engagement,54
+7,hr policies,55
+7,human resources,56
+7,performance management,57
+7,technical recruiting,58
+7,business development,59
+7,strategy,60
+7,hr consulting,61
+7,crm,62
+7,recruiting,63
+7,customer relationship management (crm),64
+7,account management,65
+7,workforce management,66
+7,strategic hr,67
+7,new business development,68
+7,sales,69
+7,lead generation,70
+7,employee relations,71
+7,leadership,72
+7,strategic partnerships,73
+7,performance appraisal,74
+7,negotiation,75
+7,360 feedback,76
+8,program management,77
+8,project management,78
+8,cloud computing,79
+8,business intelligence,80
+9,sdlc,81
+9,it strategy,82
+9,requirements gathering,83
+9,global delivery,84
+9,business analysis,85
+9,pmp,86
+9,.net,87
+9,oracle,88
+9,java enterprise edition,89
+10,sdh,90
+10,dwdm,91
+10,transmission,92
+10,nms,93
+10,provisioning,94
+11,project planning,95
+11,retail,96
+12,python (programming language),97
+12,javascript,98
+13,agile project management,99
+13,distributed team management,100
+13,enterprise resource planning (erp),101
+13,financial services,102
+13,spring framework,103
+13,hibernate,104
+13,jquery,105
+13,bootstrap,106
+13,angularjs,107
+14,ethernet,108
+14,computer network operations,109
+14,service delivery,110
+14,routing,111
+14,mpls,112
+14,business process,113
+14,qos,114
+14,project management office (pmo),115
+14,open source software,116
+14,leadership development,117
+16,php,118
+16,c (programming language),119
+16,machine learning,120
+16,ethereum,121
+17,supply chain management,122
+17,strategic sourcing,123
+17,global sourcing,124
+17,supplier negotiation,125
+17,supply management,126
+17,procurement,127
+17,purchasing,128
+17,supply chain,129
+17,logistics management,130
+17,customer service,131
+20,icims,132
+20,sap erp,133
+20,hr operations,134
+21,pl/sql,135
+22,programming,136
+25,iso 27001,137
+25,ux / ui designing,138
+26,arduino,139
+26,digital electronics,140
+26,software development life cycle (sdlc),141
+26,embedded c,142
+26,adobe photoshop,143
+26,ms office,144
+26,html5,145
+26,xml,146
+26,sql,147
+26,html,148
+26,cascading style sheets (css),149
+26,oracle sql,150
+26,spring boot,151
+26,spring mvc,152
+26,java database connectivity (jdbc),153
+26,communication,154
+26,networking,155
+26,ccna,156
+26,communication systems,157
+26,software testing life cycle (stlc),158
+26,ddlc,159
+27,personnel management,160
+27,organizational design,161
+27,screening,162
+27,change management,163
+27,erp,164
+27,resource management,165
+27,hr business partnering,166
+27,deferred compensation,167
+27,temporary placement,168
+27,strategic planning,169
+27,mergers,170
+27,executive search,171
+27,recruitments,172
+27,benefits negotiation,173
+27,mergers & acquisitions,174
+27,business strategy,175
+27,mergers and acquisitions,176
+27,compensation & benefit,177
+27,employer branding,178
+27,workforce planning,179
+27,succession planning,180
+27,leading change,181
+27,hris,182
+27,training,183
+27,sourcing,184
+27,organizational effectiveness,185
+27,cross-functional team leadership,186
+27,executive management,187
+27,global hr leadership,188
+27,global leadership,189
+27,global human resources management,190
+27,hr process management,191
+28,angular4,192
+28,swiftui,193
+28,ios development,194
+28,sql server management studio,195
+29,learning management,196
+29,management consulting,197
+29,team leadership,198
+29,written & oral presentation skills,199
+29,people skills,200
+29,training facilitation,201
+29,program facilitation,202
+30,business consultancy,203
+30,powerpoint,204
+30,microsoft powerpoint,205
+32,teamwork,206
+32,it recruitment,207
+32,linkedin recruiter,208
+32,interviewing,209
+32,interviews,210
+32,engagement management,211
+32,hr analytics,212
+32,talent pipelining,213
+32,talent scouting,214
+32,linkedin,215
+33,bss,216
+33,oss,217
+35,agile methodologies,218
+36,interpersonal skills,219
+36,microsoft word,220
+36,employee learning & development,221
+36,employee wellness,222
+37,financial reporting,223
+37,accounting,224
+37,corporate governance,225
+37,financial modeling,226
+37,corporate law,227
+39,data science,228
+39,big data,229
+39,python,230
+39,hadoop,231
+39,apache spark,232
+42,outsourcing,233
+42,bpo,234
+42,operations management,235
+42,process improvement,236
+43,marketing strategy,237
+43,product marketing,238
+43,corporate branding,239
+43,business process improvement,240
+43,tableau,241
+43,process consulting,242
+43,robotics process automation,243
+44,algorithms,244
+44,data analysis,245
+44,object-oriented programming (oop),246
+44,deep learning,247
+44,eclipse,248
+44,problem solving,249
+44,android studio,250
+46,full-stack development,251
+47,sales management,252
+47,digital marketing,253
+47,market research,254
+47,consumer behavior,255
+47,business analytics,256
+47,statistical data analysis,257
+47,financial analysis,258
+47,brand management,259
+47,r,260
+47,spss,261
+47,team building,262
+47,design thinking,263
+48,creative writing,264
+48,motivational speaking,265
+50,people management,266
+51,docker,267
+51,data analytics,268
+52,elasticsearch,269
+52,apache kafka,270
+52,kafka,271
+52,graphite,272
+53,python selenium,273
+53,python web developer,274
+53,it operations,275
+53,digital illustration,276
+53,angular,277
+53,mysql,278
+53,plc allen bradley,279
+53,member of toastmasters,280
+54,payroll,281
+54,recruitment advertising,282
+54,new hire orientations,283
+54,mis,284
+54,exit interviews,285
+57,business process re-engineering,286
+57,analytics,287
+57,management information systems (mis),288
+59,spring cloud,289
+59,jpa,290
+59,spring security,291
+59,spring data,292
+59,spring integration,293
+59,microservices,294
+60,kibana,295
+61,elastic stack (elk),296
+61,data visualization,297
+62,it outsourcing,298
+62,practice management,299
+62,organizational leadership,300
+62,strategy planning & execution,301
+63,competency mapping,302
+66,debugging,303
+67,react.js,304
+67,computer gaming,305
+68,chess,306
+71,transition management,307
+71,offshoring,308
+71,itil,309
+71,business transformation,310
+71,pmo,311
+71,project delivery,312
+71,sla,313
+71,business process outsourcing (bpo),314
+72,user acceptance testing,315
+72,telecommunications billing,316
+73,client relations,317
+74,hiring,318
+74,college recruiting,319
+75,b/oss,320
+75,digital transformation,321
+75,business support system (bss),322
+75,enterprise architect,323
+75,sdn nfv,324
+75,togaf 9,325
+76,android,326
+77,unified modeling language (uml),327
+77,programming languages,328
+77,algorithm analysis,329
+77,algorithm design,330
+78,hr management,331
+78,analytical skills,332
+78,statistics,333
+78,mathematics,334
+78,research,335
+78,public speaking,336
+78,organization skills,337
+78,multitasking,338
+78,decision-making,339
+78,german,340
+78,organizational behavior,341
+78,ethics,342
+78,competency analysis,343
+79,internet recruiting,344
+79,applicant tracking systems,345
+79,personal development,346
+79,home offices,347
+79,virtual collaboration,348
+79,virtual work,349
+79,life skills,350
+81,pandas (software),351
+81,predictive modeling,352
+81,feature selection,353
+82,engineering,354
+82,solid works,355
+82,catia,356
+82,ansys,357
+82,solidworks,358
+83,angular 6,359
+83,english,360
+84,entrepreneurship,361
+84,web development,362
+84,flask,363
+84,internet of things (iot),364
+87,travel management,365
+88,photography,366
+88,advertising,367
+89,data modeling,368
+89,clearcase,369
+89,snmp,370
+91,visual basic .net (vb.net),371
+91,phpmyadmin,372
+92,resume writing,373
+92,screening resumes,374
+92,contract recruitment,375
+93,snowflake,376
+93,shell scripting,377
+93,azure databricks,378
+93,azure data factory,379
+93,apache airflow,380
+93,apache oozie,381
+93,apache nifi,382
+93,apache sqoop,383
+93,hbase,384
+93,mapreduce,385
+93,apache tez,386
+93,apache ranger,387
+93,grafana,388
+93,influxdb,389
+93,apache zookeeper,390
+93,hive,391
+93,yarn,392
+93,kerberos,393
+93,nagios,394
+93,minif,395
+94,selenium,396
+94,test automation framework,397
+95,computer networking,398
+96,corporate communications,399
+96,manage client relationships,400
+96,recruitment,401
+96,microsoft sql server,402
+96,asp.net,403
+96,human resources information systems (hris),404
+96,career counseling,405
+97,cmmi,406
+97,quality assurance,407
+97,software quality assurance,408
+97,six sigma,409
+97,quality management,410
+97,test management,411
+97,iso,412
+97,capability maturity model integration (cmmi),413
+97,quality system,414
+97,process simulation,415
+97,it service management,416
+97,project portfolio management,417
+97,hp quality center,418
+97,quality center,419
+99,immigration law,420
+99,policy,421
+99,consulting,422
+99,expatriate management,423
+99,global mobility,424
+99,employee benefits,425
+100,event planning,426
+100,renewable energy,427
+103,metasolv m6,428
+103,production support,429
+103,inventory management,430
+103,data migration,431
+103,weblogic,432
+103,informatica,433
+103,oracle database,434
+103,telecom infrastructure,435
+104,databases,436
+105,induction & orientation,437
+106,incident management,438
+107,4screening    3recruitments    3sourcing    2hr consulting    2recruiting    2ta,439
+108,wcdma,440
+108,universal mobile telecommunications system (umts),441
+108,system architecture,442
+108,lte,443
+108,femtocell,444
+108,mvno,445
+108,tr069,446
+109,recruitment/retention,447
+109,talent mapping,448
+109,e-recruitment,449
+109,resource allocation,450
+109,full-cycle recruiting,451
+110,test planning,452
+110,test automation,453
+110,wan,454
+110,ospf,455
+110,customer experience,456
+110,bgp,457
+110,switches,458
+110,iptv,459
+110,mentoring,460
+110,dsl,461
+110,tcl,462
+110,vlan,463
+110,cwna,464
+110,mobile virtual network operator (mvno),465
+112,agile,466
+112,ibm db2,467
+112,c#,468
+112,swagger api,469
+112,visual studio,470
+112,selenium webdriver,471
+112,mvc,472
+114,analysis,473
+114,project coordination,474
+115,iis,475
+115,websphere process server,476
+115,vmware esx,477
+116,mobile devices,478
+116,marketing,479
+116,go-to-market strategy,480
+116,start-ups,481
+116,p&l responsibility,482
+116,strategic consulting,483
+116,b2b,484
+116,competitive analysis,485
+116,sales operations,486
+116,p&l management,487
+116,customer retention,488
+116,mobile technology,489
+116,network architecture,490
+116,saas,491
+116,contract negotiation,492
+116,business operations,493
+116,customer service operations,494
+116,operational strategy,495
+116,roaming,496
+117,e-commerce,497
+117,solution selling,498
+117,product development,499
+117,online marketing,500
+117,sales process,501
+117,direct sales,502
+117,online advertising,503
+117,international sales,504
+117,international business,505
+117,enterprise software,506
+117,key account management,507
+118,knowledge management,508
+118,risk management,509
+118,sap hr,510
+119,business planning,511
+119,customer relations,512
+119,channel partners,513
+124,market analysis,514
+124,internet research,515
+124,brand development,516
+124,social media marketing,517
+124,smo,518
+124,business-to-business (b2b),519
+124,search engine optimization (seo),520
+124,marketing research,521
+124,qualitative research,522
+124,marketing communications,523
+124,market intelligence,524
+124,social media roi,525
+124,primary research,526
+124,high-growth,527
+125,b2b business development,528
+125,customer relationship management,529
+125,trend analysis,530
+125,team managment,531
+126,banking,532
+126,business requirements,533
+126,requirements management,534
+126,requirement analysis,535
+128,artificial intelligence (ai),536
+128,robotic process automation (rpa),537
+129,prince2,538
+129,itil v3 foundations certified,539
+130,solaris,540
+131,cassandra,541
+135,storytelling,542
+135,forecasting,543
+135,data mining,544
+135,sow,545
+136,engineering design,546
+138,graduate recruitment,547
+138,fmla,548
+138,soft skills,549
+138,grievances,550
+138,generalist profile,551
+139,natural language processing (nlp),552
+139,qlik sense,553
+139,linear algebra,554
+140,multithreading,555
+140,broadband,556
+140,oracle sql developer,557
+140,string,558
+140,jdk,559
+140,java virtual machine (jvm),560
+140,adtran,561
+140,alcatel,562
+140,collection,563
+140,exception handling,564
+141,big data analytics,565
+141,big data preparation,566
+142,private equity,567
+142,venture capital,568
+142,due diligence,569
+142,corporate finance,570
+144,web applications,571
+145,budgets,572
+146,solutions design,573
+147,windows,574
+150,facilities management,575
+152,technical support,576
+152,network administration,577
+152,software testing,578
+154,healthcare,579
+154,healthcare management,580
+154,hipaa,581
+154,healthcare information technology,582
+154,continuous improvement,583
+154,u.s. health insurance portability and accountability act (hipaa),584
+154,healthcare information technology (hit),585
+155,data structures,586
+155,design patterns,587
+156,vpn,588
+157,oracle oss product-mss,589
+157,osm ,590
+157,uim,591
+157,ni7,592
+157,asap,593
+157,billing system-amdocs ces,594
+157,surepay,595
+157,mpls isp,596
+157,4g/3g vote,597
+162,exploratory data analysis,598
+162,scikit-learn,599
+162,numpy,600
+162,database management system (dbms),601
+164,bmc remedy,602
+164,web services,603
+164,cmdb,604
+165,adobe illustrator,605
+165,sketch app,606
+165,graphic design,607
+168,troubleshooting,608
+168,git,609
+168,jenkins,610
+168,docker products,611
+168,lucene,612
+168,continuous integration and continuous delivery (ci/cd),613
+168,dashboard,614
+169,vba,615
+169,telecom bss,616
+169,robot framework,617
+169,unix shell scripting,618
+169,kenan arbor,619
+172,visual basic for applications (vba),620
+173,manual testing,621
+175,sap implementation,622
+175,sap,623
+175,sap products,624
+175,abap,625
+175,sap r/3,626
+176,adaptable,627
+176,conscientious,628
+176,enthusiastic,629
+176,computer proficient in microsoft word and excel,630
+176,ability to learn new applications quickly,631
+176,easily adaptable,632
+176,python(begginer),633
+177,microsoft exchange,634
+180,salesforce.com administration,635
+183,visual basic,636
+183,asp.net mvc,637
+183,customer service management,638
+189,soapui,639
+189,katalon studio,640
+189,pycharm,641
+190,drupal,642
+195,oracle apex,643
+196,css,644
+196,node.js,645
+196,typescript,646
+200,kannada,647
+201,end-to-end testing,648
+201,functional testing,649
+205,waste management,650
+208,kubernetes,651
+208,postman api,652
+208,rabbitmq,653
+210,business administration,654
+210,commerce,655
+210,process automation,656
+210,automation,657
+210,uipath,658
+210,company operations,659
+210,back-end operations,660
+211,apache spark streaming,661
+211,storm,662
+212,anaconda,663
+212,seaborn,664
+212,cloudera,665
+212,csharp,666
+212,internet information services (iis),667
+212,spyder ide,668
+212,java full stack,669
+214,vb script,670
+215,mongodb,671
+216,windows server,672
+216,linux server,673
+216,active directory,674
+216,router configuration,675
+216,lan switching,676
+216,network troubleshooting,677
+216,remote troubleshooting,678
+217,presentation,679
+220,sailpoint,680
+220,oauth,681
+220,identity & access management (iam),682
+220,imperva,683
+220,servicenow,684
+220,bmc remedy ticketing system,685
+220,weblogic administration,686
+220,oracle identity manager,687
+220,ping federate,688
+221,brand awareness,689
+221,3g,690
+222,.net framework,691
+225,struts,692
+227,release management,693
+227,functional analysis,694
+228,email marketing,695
+228,electrical engineering,696
+229,user interface design,697
+229,editing,698
+229,css3,699
+230,web design,700
+232,it management,701
+235,enterprise architecture,702
+235,soa,703
+235,security,704
+236,permanent placement,705
+236,information technology,706
+237,client co-ordination,707
+237,database design,708
+237,asp.net ajax,709
+237,vb.net,710
+237,crystal reports,711
+237,windows services,712
+237,client/server,713
+238,regression testing,714
+238,cobol,715
+238,jira,716
+238,qtp,717
+238,db2,718
+238,hp qtp,719
+238,hp quicktest professional (qtp),720
+240,service-oriented architecture (soa),721
+240,entrepreneur,722
+240,selling,723
+240,software as a service (saas),724
+240,strengthening client relationships,725
+242,data center,726
+242,multiprotocol label switching (mpls),727
+242,border gateway protocol (bgp),728
+242,cisco technologies,729
+242,routers,730
+242,cisco systems products,731
+242,technical leadership,732
+242,stakeholder management,733
+242,routing protocols,734
+242,carrier ethernet,735
+242,ipv6,736
+242,mpls networking,737
+242,solutions marketing,738
+242,technical communication,739
+242,wireless broadband,740
+242,system verification,741
+242,sdn,742
+242,network transformation,743
+242,nfv,744
+242,telco cloud,745
+242,technology strategy & business alignment,746
+244,business alliances,747
+244,infrastructure management,748
+244,professional mentoring,749
+245,students chairman - electrical and electronics department,750
+246,uml,751
+246,service assurance,752
+246,revenue assurance,753
+246,oracle soa suite,754
+247,adobe xd,755
+247,adobe lightroom,756
+247,internet of thing,757
+248,administration,758
+248,event management,759
+248,excel,760
+248,lotus notes,761
+248,job diva,762
+248,internet,763
+248,sap abab,764
+250,team coordination,765
+250,nextgen,766
+250,email clients,767
+251,headhunting,768
+251,staff augmentation,769
+251,job descriptions,770
+251,temporary staffing,771
+251,search,772
+251,salary negotiation,773
+251,coordination,774
+253,ibm watson,775
+254,ticketing tools,776
+254,application support,777
+254,order processing,778
+256,project life cycle,779
+256,product customization cycle,780
+257,tcp/ip,781
+257,dhcp,782
+262,software documentation,783
+262,vendor management,784
+262,spreadsheets,785
+262,office 365,786
+262,active listening,787
+262,time management,788
+262,virtual office,789
+264,mobile testing,790
+264,test automation tools,791
+264,ivr,792
+264,icoms,793
+264,cyara automation testing,794
+264,ecommerce testing,795
+264,telecom oss/bss testing,796
+264,salesforce testing,797
+264,perfecto mobile testing,798
+264,rbm,799
+266,plsql,800
+266,scrum developer,801
+269,blue prism,802
+269,autohotkey,803
+270,responsive web design,804
+270,json,805
+270,yii,806
+271,big data hadoop,807
+271,coldfusion,808
+273,certified scrum master,809
+273,automation testing using selenium with python,810
+273,e2e test management,811
+273,telecom business analyst,812
+274,see 1 endorsement for vendor management,813
+274,1,814
+274,aireen grace santiago,815
+274,network engineering,816
+275,social media,817
+275,content writing,818
+276,oracle applications,819
+276,sql loader,820
+276,sql pl,821
+276,sql*plus,822
+276,toad,823
+276,oracle reports,824
+276,oracle database administration,825
+277,oozie,826
+278,front-end development,827
+279,critical thinking,828
+279,soap ui,829
+279,teaching,830
+281,rpa tools (uipath),831
+281,rpa tools,832
+282,defect tracking,833
+282,manual test execution,834
+282,alm,835
+284,salesforce platform developer,836
+286,angular command line interface (cli),837
+286,basics of node js,838
+286,sass,839
+287,photoshop,840
+290,j2ee web services,841
+290,jsp,842
+292,vmware,843
+292,infrastructure,844
+292,itil certified,845
+293,web application development,846
+295,hdfs,847
+299,ionic framework,848
+302,pki,849
+302,outlook,850
+303,blogging,851
+303,testcomplete,852
+303,tekerik test studio,853
+305,invoicing,854
+305,perl,855
+305,perl script,856
+305,soap,857
+305,apache,858
+305,singl.eview,859
+307,django,860
+309,training delivery,861
+309,retail banking,862
+309,business process design,863
+309,sales presentations,864
+309,hands-on training,865
+309,retail banking operations,866
+309,coaching,867
+309,instructor-led training,868
+309,organizational development,869
+309,training & development,870
+309,workshop facilitation,871
+309,functional consulting,872
+309,client facing skills,873
+309,credit banking operations,874
+310,b2b marketing,875
+310,marketing management,876
+310,b2c marketing,877
+315,software defined networking,878
+316,c programming,879
+317,defect management,880
+319,extract,881
+319,transform,882
+319,load (etl),883
+319,scala,884
+321,automation anywhere,885
+321,chatbot development,886
+321,powershell,887
+323,codeigniter,888
+323,express.js,889
+323,cakephp,890
+323,gitlab,891
+323,phonegap,892
+324,ajax,893
+325,mobile applications,894
+325,agile & waterfall methodologies,895
+325,scrum,896
+325,rest api,897
+325,nativescript,898
+325,asp.net web api,899
+325,software design patterns,900
+326,social media optimization (smo),901
+329,kenan,902
+331,devops,903
+332,github,904
+332,tfs,905
+332,team foundation server (tfs),906
+332,kentico cms,907
+332,kentico,908
+332,unfuddle,909
+333,software engineering,910
+333,wcf services,911
+335,ms visio,912
+335,powerpoint development,913
+337,techcinal project management,914
+337,telecom domain,915
+338,hands-on in- grafana tool,916
+339,angular 7,917
+340,spring,918
+343,pipelines,919
+343,google cloud platform (gcp),920
+343,google kubernetes engine (gke),921
+347,marketing analytics,922
+347,secondary research,923
+347,proposal management,924
+348,synchronous digital hierarchy (sdh),925
+350,microsoft project,926
+352,dialogflow,927
+358,cognos,928
+359,budget management,929
+359,media buying,930
+359,strategic business planning,931
+359,staff management,932
+359,employee training,933
+359,staff development,934
+359,stakeholder relationship management,935
+359,customer presentations,936
+359,job costing,937
+359,resource planning,938
+360,content management,939
+360,web content writing,940
+360,newsletter writing,941
+360,brochures,942
+360,writing,943
+360,proofreading,944
+360,web writing,945
+360,proof reading,946
+360,seo optimization,947
+360,hindi,948
+360,malayalam,949
+360,search engine visibility,950
+360,business writing,951
+360,newsletter content management,952
+360,social media/blog writing,953
+362,database testing,954
+364,certified black belt,955
+364,agile scrum master,956
+364,lean practionaire,957
+364,quality professional,958
+364,training expert,959
+368,functional requirements,960
+368,broadband networks,961
+371,job scheduling,962
+371,ms sql,963
+373,system integration testing,964
+374,es6,965
+374,blockchain,966
+374,solidity,967
+375,performance tuning,968
+375,oracle 9i,969
+375,oracle 11g,970
+375,oracle 10g,971
+375,sql tuning,972
+378,ansible,973
+378,ubuntu,974
+378,shell scripts,975
+382,microcontrollers,976
+382,simulations,977
+382,scada,978
+382,vhdl,979
+384,operating systems,980
+384,itsm,981
+384,client services,982
+384,service desk management,983
+384,critical incident stress management,984
+384,major incident management,985
+384,it infrastructure management,986
+385,pdh,987
+385,ethernet over sdh,988
+385,atm networks,989
+385,cramer,990
+385,metasolv,991
+386,test cases,992
+386,agile testing,993
+386,system testing,994
+386,performance testing,995
+386,pega prpc,996
+388,itil operations,997
+388,service management,998
+388,offshore operations,999
+388,test strategy,1000
+388,process management,1001
+388,order fulfillment,1002
+388,it & business strategy alignment,1003
+388,system monitoring,1004
+389,content marketing,1005
+390,public relations,1006
+390,media relations,1007
+390,analyst relations,1008
+391,client relationship building,1009
+391,business consulting,1010
+391,product strategy,1011
+392,selenium testing,1012
+392,qa manual testing,1013
+393,strategic planning skills,1014
+393,strong analytical skills,1015
+393,problem solving skills,1016
+393,auto hot key,1017
+396,people development,1018
+398,component testing,1019
+398,api testing,1020
+398,defect life cycle,1021
+398,report preparation,1022
+398,test design,1023
+399,wordpress,1024
+399,drawing,1025
+399,painting,1026
+399,html 5,1027
+399,joomla,1028
+399,lamp,1029
+399,jquery ui,1030
+399,magento,1031
+399,moodle,1032
+399,opencart,1033
+399,html ,1034
+399,css and javascript,1035
+399,php & mysql,1036
+402,poem writting,1037
+403,data entry,1038
+403,program development,1039
+403,netbeans,1040
+403,microsoft azure,1041
+403,enterprise javabeans (ejb),1042
+403,ooad,1043
+403,object-relational mapping (orm),1044
+403,peer mentoring,1045
+403,zoho creator,1046
+405,sun certified java programmer,1047
+408,nx,1048
+408,storybook,1049
+411,jmeter,1050
+411,apm,1051
+417,cisco certified network professional,1052
+419,obrm,1053
+422,app,1054
+423,storage,1055
+423,storage area network (san),1056
+423,emc storage,1057
+423,virtualization,1058
+423,datacenter,1059
+423,emcisa,1060
+423,hp storage,1061
+423,brocade fibre switches,1062
+425,after effects,1063
+425,adobe premiere pro,1064
+428,jms,1065
+428,linux scripting,1066
+428,tomcat 5,1067
+428,oracle service bus,1068
+428,amdocs clarify,1069
+428,openshift,1070
+432,tableau admin,1071
+432,teradata data warehouse,1072
+433,testng,1073
+433,cucumber,1074
+434,mainframe,1075
+435,tabaleu,1076
+436,uft,1077
+436,ui automation,1078
+436,sikuli,1079
+437,angular 8,1080
+437,maven,1081
+437,zuul api gateway,1082
+437,single sign-on (sso),1083
+437,ldap,1084
+438,dreamweaver,1085
+438,unity3d,1086
+438,janusgraph,1087
+441,user experience (ux),1088
+444,tamil,1089
+444,trading,1090
+444,analytical,1091
+444,good communication,1092
+448,cisco networking,1093
+448,network monitoring tools,1094
+449,computer science,1095
+449,network marketing,1096
+449,entertainment,1097
+449,sap sd,1098
+449,sap hybris,1099
+449,sap crm,1100
+449,sap-sd,1101
+449,sap functional consultants,1102
+449,sap brim,1103
+451,ado.net,1104
+451,entity framework,1105
+452,openstack,1106
+452,network function virtualization,1107
+454,amazon web services (aws),1108
+456,pentaho,1109
+459,vmware vsphere,1110
+459,vmware workstation,1111
+463,linq,1112
+463,language integrated query (linq),1113
+466,business,1114
+466,supervised learning,1115
+466,unsupervised learning,1116
+466,time series analysis,1117
+468,angular 4,1118
+468,ejb,1119
+468,c# 4.0,1120
+468,silverlight,1121
+468,windows phone,1122
+470,unit testing,1123
+470,appium,1124
+470,sonarqube,1125
+470,mobile application development,1126
+471,bmc remedy ar system,1127
+471,bmc remedy administration,1128
+471,srm,1129
+473,electronics,1130
+473,embedded software,1131
+473,labview,1132
+473,ni labview,1133
+473,creavitiy and self confidence,1134
+475,linux system administration,1135
+475,cloud applications,1136
+475,domain name system (dns),1137
+475,amazon route 53,1138
+475,topaz,1139
+475,high performance computing (hpc),1140
+475,splunk,1141
+475,apigee trace,1142
+475,vugen,1143
+475,comptia network+,1144
+475,amazon redshift,1145
+475,amazon ec2,1146
+476,consumer services,1147
+476,senior associate,1148
+479,database administration,1149
+479,xslt,1150
+479,tomcat,1151
+479,database systems,1152
+480,continuous integration,1153
+480,continuous delivery,1154
+480,bash,1155
+484,scss,1156
+486,affiliate marketing,1157
+486,raspberry pi,1158
+487,api automation and manual,1159
+487,api automation,1160
+488,watson,1161
+488,ssis,1162
+488,nosql,1163
+488,talend,1164
+488,content based image retrieval (cbir),1165
+488,classification,1166
+488,clustering,1167
+488,msbi,1168
+488,web scraping,1169
+489,ucce,1170
+489,cisco uccx,1171
+489,cisco ucce,1172
+489,cisco call manager,1173
+489,cisco pcce,1174
+489,cisco ipt,1175
+490,automation developer,1176
+491,computer hardware,1177
+492,machine learning algorithms,1178
+492,rdbms,1179
+494,data warehousing,1180
+494,data architecture,1181
+494,postgresql,1182
+494,aws lambda,1183
+494,aws glue,1184
+494,amazon s3,1185
+494,amazon athena,1186
+494,business intelligence tools,1187
+494,teradata sql,1188
+494,greenplum,1189
+494,amazon dynamodb,1190
+494,mariadb,1191
+494,software architectural design,1192
+495,mssql,1193
+497,user stories,1194
+497,process assessment,1195
+499,neural networks,1196
+500,amdocs crm,1197
+502,salesforce.com consulting,1198
+506,job control language (jcl),1199
+506,ibm mainframe,1200
+506,sql db2,1201
+506,cics,1202
+509,vas,1203
+509,gprs,1204
+510,offboarding,1205
+512,leaflet,1206
+512,arcgis server,1207
+513,telecom bss/oss,1208
+513,charging systems,1209
+514,restful webservices,1210
+514,sdn/nfv,1211
+515,model-view-controller (mvc),1212
+518,kaizen,1213
+521,qlikview,1214
+521,qlik nprinting,1215
+521,qlikview development,1216
+521,qlikview administration,1217
+522,etl testing,1218
+522,dwh,1219
+523,red hat linux,1220
+523,centos,1221
+523,samba,1222
+525,websphere application server,1223
+525,junit,1224
+525,jboss application server,1225
+525,servlets,1226
+526,red hat certified engineer (rhce),1227
+527,demand generation,1228
+527,consultative sales,1229
+527,solution sales,1230
+527,enterprise software sales,1231
+527,needs analysis,1232
+527,strategic sales planning,1233
+528,problem management,1234
+528,configuration management,1235
+528,bmc patrol,1236
+528,service level management,1237
+534,store operations,1238
+534,relationship management,1239
+534,virtual teams,1240
+534,business case,1241
+535,business partner hr,1242
+535,hr generalist,1243
+535,credit,1244
+535,credit risk,1245
+535,facilitation,1246
+535,stakeholder engagement,1247
+535,strengthsfinder,1248
+536,customer engagement,1249
+536,offshore software development,1250
+536,growing revenue,1251
+537,data virtualization,1252
+537,m6 (aka mss,1253
+537,metasolv solution),1254
+537,offshore management,1255
+537,corporate blogging,1256
+538,kt,1257
+539,bid preparation,1258
+540,react native,1259
+540,ruby on rails,1260
+540,golang,1261
+540,groovy,1262
+540,hypertext transfer protocol (http),1263
+541,macros,1264
+542,strategic alliances,1265
+542,enterprise solution sales,1266
+542,gtm,1267
+542,program management professional,1268
+542,sales channel development,1269
+549,hp application lifecycle management,1270
+556,etl,1271
+560,vmware infrastructure,1272
+563,e commerce testing,1273
+564,web hosting,1274
+566,electronics hardware design,1275
+566,electronics technology,1276
+566,wideband code division multiple access (wcdma),1277
+566,wireless networking,1278
+566,creative problem solving,1279
+566,supervisory skills,1280
+566,radio frequency (rf) engineering,1281
+566,rf design,1282
+566,rf test,1283
+566,drive testing,1284
+566,electronics manufacturing,1285
+566,man management,1286
+567,jira administration,1287
+571,os x,1288
+571,servers,1289
+571,ssl certificates,1290
+571,cpanel,1291
+571,dns management,1292
+571,secure sockets layer (ssl),1293
+571,whm,1294
+573,rman,1295
+573,oracle rac,1296
+573,data guard,1297
+573,oracle enterprise manager,1298
+573,oracle certified dba,1299
+574,project managers,1300
+574,ayehu eyeshare,1301
+574,ginger,1302
+576,android development,1303
+579,backup & recovery systems,1304
+579,commvault,1305
+579,cdp,1306
+579,pure storage flasharray,1307
+579,hitachi storage,1308
+579,hpdp,1309
+584,life sciences,1310
+584,siebel,1311
+584,rqm,1312
+585,cloud,1313
+585,onap,1314
+585,osgi,1315
+588,billing systems,1316
+589,java message service (jms),1317
+591,microsoft power bi,1318
+591,tortoise svn,1319
+591,spl,1320
+598,angular material,1321
+598,salesforce.com,1322
+598,java swing,1323
+599,microsoft dynamics crm,1324
+599,business operations analyst,1325
+599,sql server reporting services (ssrs),1326
+599,telecom analyst,1327
+599,amdocs,1328
+599,contact center management,1329
+599,contact center technology,1330
+599,contact center operations,1331
+602,mpls vpn,1332
+602,hsrp,1333
+604,functional design,1334
+604,business intelligence (bi),1335
+604,google analytics,1336
+604,microsoft azure machine learning,1337
+604,knime,1338
+604,artificial neural networks,1339
+636,dynamic host configuration protocol (dhcp),1340
+637,system administration,1341
+637,seo,1342
+637,azure administrator,1343
+637,crimping,1344
+639,sap business software,1345
+639,rr connect,1346
+640,asp.net core,1347
+640,blazor,1348
+640,web api,1349
+640,back-end web development,1350
+640,cross-platform development,1351
+644,food & beverage,1352
+644,software,1353
+645,eigrp,1354
+646,tuxedo,1355
+647,store management,1356
+647,mcitp,1357
+647,windows 7,1358
+647,logical volume manager (lvm),1359
+647,nfs,1360
+647,iscsi,1361
+647,rhel,1362
+647,field service engineering,1363
+647,computer hardware installation,1364
+647,network address translation (nat),1365
+647,selinux,1366
+647,virtualbox,1367
+647,red hat enterprise linux (rhel),1368
+647,ticketing,1369
+648,vbscript,1370
+650,dj,1371
+650,decision making,1372
+650,dutch,1373
+652,unix administration,1374
+653,vss,1375
+654,disaster recovery,1376
+654,oracle e-business suite,1377
+659,product innovation,1378
+659,design,1379
+659,sound design,1380
+659,music production,1381
+659,robotics,1382
+659,psychology,1383
+659,sap businessobjects,1384
+659,creativity skills,1385
+659,logical approach,1386
+660,lean six sigma,1387
+660,iso standards,1388
+663,sql server,1389
+664,it hardware support,1390
+664,computer hardware troubleshooting,1391
+665,employement based immigration,1392
+666,pyspark,1393
+667,\uf0fc\tintegrated receiver/decoder: ericsson/tandberg,1394
+667,cisco/scientific atlanta,1395
+667,harm,1396
+667,\uf0fc\tencoder: harmonic electra 9240,1397
+667,electra x,1398
+667,divicom electra 5422,1399
+667,\uf0fc\tmultiplexer: harmonic prostream 9100/9000/1000,1400
+667,\uf0fc\tnms: harmonic’s nmx digital service manager,1401
+667,\uf0fc\tcomposite to sdi video conversion/embedding audio: selenio frame,1402
+667,harris x75sd,1403
+667,\uf0fc\tasi/mpeg ts analysis tools - dvstation,1404
+667,dektec,1405
+679,software installation,1406
+679,server administration,1407
+679,microsoft certified professional,1408
+679,windows 8,1409
+679,hyper-v,1410
+679,symantec endpoint protection,1411
+679,symantec backup,1412
+679,wsus,1413
+679,dns administration,1414
+679,file servers,1415
+679,data recovery,1416
+679,domain controller,1417
+679,ghost imaging,1418
+679,juniper switches,1419
+679,filezilla,1420
+679,microsoft windows 98,1421
+679,print servers,1422
+680,back office operations,1423
+689,sales force testing,1424
+693,quality control,1425
+693,project documentation,1426
+694,selenium java,1427
+700,rest apis,1428
+700,j unit,1429
+700,jiira,1430
+702,webdriver,1431
+702,excel macro,1432
+702,macro,1433
+703,income tax,1434
+703,tax deducted at source (tds),1435
+703,treasury management,1436
+703,goods and services tax (gst),1437
+703,provident fund,1438
+704,pcnse,1439
+704,ipsec vpn,1440
+704,juniper srx,1441
+704,acl,1442
+704,network load balancing,1443
+704,ccna certified,1444
+704,palo alto networks,1445
+704,cisco wlc,1446
+704,cisco ap,1447
+708,autocad,1448
+709,salesforce.com development,1449
+709,salesforce sales cloud,1450
+709,soql,1451
+709,salesforce admin,1452
+710,central excise,1453
+710,bank reconciliation,1454
+710,accounts payable,1455
+710,tax,1456
+710,value-added tax (vat),1457
+710,accounts receivable,1458
+710,tally erp,1459
+710,finance,1460
+710,accounts,1461
+710,taxation,1462
+710,tds,1463
+710,e-tds,1464
+710,softex,1465
+710,sez & stpi,1466
+710,export,1467
+710,retail dispatch,1468
+710,biling & dispatch,1469
+711,animation,1470
+711,hpqc,1471
+711,cricket,1472
+711,essays,1473
+711,short stories,1474
+713,vue.js,1475
+713,.net core,1476
+715,project leadership,1477
+715,teradata,1478
+715,gradle,1479
+715,thymeleaf,1480
+715,tactical planning,1481
+715,project rollouts,1482
+715,web application design,1483
+715,project tracking,1484
+716,web service,1485
+717,oop,1486
+717,social network analysis,1487
+717,ucinet,1488
+719,android sdk,1489
+719,dotcms,1490
+720,low level design,1491
+729,asp,1492
+730,java web services,1493
+731,ms excel pivot tables,1494
+731,loadrunner,1495
+734,etl developer,1496
+734,informatica developer,1497
+734,talend open studio,1498
+735,java persistence adapter,1499
+735,getafix,1500
+735,asl,1501
+736,ui path,1502
+736,rpas,1503
+738,sharepoint framework (spfx),1504
+738,angularts,1505
+738,api development,1506
+740,telecom oss,1507
+740,brm,1508
+743,oops,1509
+743,d3.js,1510
+745,sqoop,1511
+745,flume,1512
+745,apache pig,1513
+745,titandb,1514
+746,oss bss,1515
+747,it automation,1516
+747,"""ericssons online charging system""",1517
+748,sports,1518
+749,php applications,1519
+750,scrum master,1520
+750,test automation expert,1521
+750,openstack cloud,1522
+750,product owner,1523
+750,digitalisation,1524
+751,sap basis,1525
+751,windows system administration,1526
+751,dns server,1527
+754,presentations,1528
+754,hypothesis testing,1529
+755,dns,1530
+755,firewalls,1531
+755,network security,1532
+757,telecom billing,1533
+757,prepaid charging,1534
+758,wcf,1535
+761,proposal writing,1536
+761,customer acquisition,1537
+761,software industry,1538
+761,cold calling,1539
+761,software sales,1540
+762,taleo,1541
+763,small business,1542
+764,blazemeter,1543
+765,azure admin,1544
+765,sql azure,1545
+765,cloud computing iaas,1546
+765,mircosoft azure,1547
+766,javaserver pages (jsp),1548
+766,websphere mq,1549
+766,rest service,1550
+767,value-added services (vas),1551
+767,technical account management,1552
+767,system deployment,1553
+767,smsc,1554
+767,smpp,1555
+767,ussd,1556
+768,business process management,1557
+768,etom,1558
+769,telecommunication services,1559
+770,application development,1560
+770,j2ee,1561
+770,intellij idea,1562
+770,postman,1563
+770,zuul,1564
+770,svn,1565
+770,mockito,1566
+770,sts,1567
+770,ribbons,1568
+770,eureka,1569
+770,load balancing,1570
+772,cloudera impala,1571
+773,digital signal processing,1572
+778,video editing,1573
+778,search engine marketing (sem),1574
+778,sme,1575
+778,food photography,1576
+782,spring  core,1577
+782,aws elastic beanstalk,1578
+782,entity framework (ef) core,1579
+782,java2se,1580
+782,basics of entity framework,1581
+782,mstest,1582
+785,spreken in het openbaar,1583
+785,engelse taal,1584
+786,adb,1585
+787,vrealize orchestrator,1586
+787,vrealize automation,1587
+788,ui/ux designer,1588
+788,wireframing,1589
+788,rapid prototyping,1590
+788,ui designer,1591
+788,interaction design,1592
+788,user-centered design,1593
+788,product design,1594
+788,adobe dreamweaver,1595
+788,adobe flash,1596
+788,prototyping,1597
+788,greensock,1598
+788,ux research,1599
+788,mobile design,1600
+791,2g,1601
+791,orchestration,1602
+792,project implementation,1603
+792,software implementation,1604
+795,selinum,1605
+817,angular7,1606
+818,straight talk,1607
+819,asp.net razor,1608
+819,java script,1609
+819,sqlserver,1610
+819,kendo,1611
+819,web services api,1612
+820,javase,1613
+820,spring batch,1614
+820,angular 10,1615
+821,ext js,1616
+821,j2ee application development,1617
+821,oracle fusion middleware,1618
+821,osb,1619
+822,quick learner,1620
+822,hardworking,1621
+822,punctual,1622
+824,black box testing,1623
+824,smoke testing,1624
+824,test estimation,1625
+824,test scenarios,1626
+824,negative testing,1627
